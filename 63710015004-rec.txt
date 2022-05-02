@@ -1,0 +1,2 @@
+Date                             Credit      Debit     Balance
+[2021-02-16] [07:46:06]       123              123
